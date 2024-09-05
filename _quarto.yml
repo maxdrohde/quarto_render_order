@@ -1,0 +1,13 @@
+project:
+  title: "Ordering Test"
+  output-dir: _output
+  render:
+    - 1-file1.qmd
+    - 2-file2.qmd
+author: "Maximilian Rohde"
+date: today
+format:
+  html:
+    toc: true
+
+
